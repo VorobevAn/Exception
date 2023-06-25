@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class ReedFale {
+public class ReadingFile {
     public static void main(String[] args){
         int result = 0;
        try {
